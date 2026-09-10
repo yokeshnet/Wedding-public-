@@ -198,7 +198,7 @@ function WeddingAppContent() {
       <Instagram className="w-4.5 h-4.5" />
     </a>
     <a
-      href="https://github.com/yokeshinfra"
+      href="https://github.com/yokeshnet"
       target="_blank"
       rel="noopener noreferrer"
       className="hover:text-amber-400 transition-colors"
